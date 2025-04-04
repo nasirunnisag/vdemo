@@ -8,5 +8,6 @@ public static void main(String[] args) {
 	System.out.println("hi2");
 	System.out.println("hi3first1");
 	System.out.println("hi3");
+	int a=10;
 }
 }
